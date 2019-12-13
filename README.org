@@ -1,6 +1,6 @@
-* It's some historical project 
+* It's some old project 
 
 which seems I create to build a bootstrap page
-and somehow later switch to another content generater based on markdown.
+and somehow later switch to another content generater based on markdown. it's jekyll I guess.
 
 and I seems maually modify the page by the time.
